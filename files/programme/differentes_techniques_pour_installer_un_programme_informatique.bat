@@ -39,7 +39,7 @@ echo.
 pause
 echo pour commencer t‚l‚chargez le programme que vous avez envie.
 echo.
-echo ensuit trouvez-le et ‚x‚cutez le.
+echo ensuite trouvez-le et ‚x‚cutez le.
 echo.
 pause
 echo une fenetre apparaitra et suivez la proc‚dure.
