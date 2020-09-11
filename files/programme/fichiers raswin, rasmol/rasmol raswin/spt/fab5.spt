@@ -1,0 +1,26 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+zoom 150
+color white
+select (*l and(his30,tyr32))
+spacefill on
+color red
+set fontsize 10
+select atomno=204
+label His30
+color label White
+
+set fontsize 10
+select atomno=222
+label tyr32
+color label White
+
+select all
+refresh

@@ -1,0 +1,34 @@
+select all
+reset
+spacefill off
+wireframe off
+ssbonds off
+hbonds off
+zoom 150
+label off
+refresh
+backbone on
+hbonds 30
+color white
+delay 2
+zoom 200
+hbonds on
+color hbond blue
+delay 2
+hbonds off
+delay 2
+zoom 250
+hbonds on
+delay 2
+hbonds on
+color hbond blue
+refresh
+delay 2
+hbonds on
+color hbond blue
+refresh
+delay 2
+hbonds on
+color hbond blue
+refresh
+

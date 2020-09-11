@@ -1,0 +1,16 @@
+
+reset
+select all
+backbone off
+wireframe off
+zoom off
+label off
+ribbons off
+spacefill on
+select *L
+color red
+select *h
+color blue
+select *y
+color yellow
+select all

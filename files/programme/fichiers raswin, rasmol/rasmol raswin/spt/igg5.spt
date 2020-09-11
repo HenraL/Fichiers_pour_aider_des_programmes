@@ -1,0 +1,10 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+refresh
+backbone on
+color chain

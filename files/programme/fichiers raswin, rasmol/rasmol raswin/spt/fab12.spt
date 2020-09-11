@@ -1,0 +1,33 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*h and(Trp52, Gly53, Asp54))
+spacefill on
+color blue
+
+set fontsize 10
+select atomno=2045
+label trp52
+color label White
+
+set fontsize 10
+select atomno=2059
+label gly53
+color label White
+
+set fontsize 10
+select atomno=2063
+label asp54
+color label White
+
+select all
+refresh

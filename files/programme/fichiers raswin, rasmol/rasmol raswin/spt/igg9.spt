@@ -1,0 +1,26 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+backbone off
+ssbonds off
+hbonds off
+refresh
+ribbons on
+color white
+delay 2
+select *l or *m
+color red
+spacefill on
+select *h and 1-243
+color red
+spacefill on
+select *i and 1-243
+color red
+spacefill on
+select 244-452
+color blue
+spacefill on
+delay 2
+select all

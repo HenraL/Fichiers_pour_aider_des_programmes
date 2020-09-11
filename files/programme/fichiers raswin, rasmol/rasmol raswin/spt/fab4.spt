@@ -1,0 +1,35 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone 50
+color white
+delay 2
+select (*y and (129,25,116,117))
+color orange
+select (*y and(18,19,118,119))
+color green
+select (*y and(120,121,124,19-24,27))
+color cyan
+select (*l and(30,32))
+color red
+select (*l and(50))
+color greenblue
+select (*l and(91-93))
+color blue
+select (*h and(31-32))
+color red
+select (*h and(52-54))
+color greenblue
+select (*h and(99-102))
+color blue
+select (*y and(18,19,21-25,116-121,124,129)) or (*l and(30,32,50,91-93)) or (*h and(31-32,52-54,99-102))
+spacefill
+wireframe 50
+select all
+translate y 25
+zoom 150

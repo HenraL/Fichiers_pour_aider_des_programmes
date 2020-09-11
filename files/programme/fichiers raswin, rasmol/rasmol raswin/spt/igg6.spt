@@ -1,0 +1,55 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+refresh
+backbone on
+color white
+delay 2
+select *h
+ribbons on
+set fontsize 5
+select atomno=7418
+label Chaine lourde H
+delay 2
+label off
+select all
+backbone on
+ribbons off
+delay 2
+select *i
+ribbons on
+set fontsize 5
+select atomno=9026
+label Chane lourde I
+delay 2
+select all
+label off
+backbone on
+ribbons off
+delay 2
+select *l
+ribbons on
+set fontsize 5
+select atomno=7418
+label Chaine légère L
+delay 2
+select all
+label off
+backbone on
+ribbons off
+select *m
+ribbons on
+set fontsize 5
+select atomno=9026
+label Chaine légère M
+delay 2
+select all
+ribbons off
+backbone on
+label off
+refresh
+reset

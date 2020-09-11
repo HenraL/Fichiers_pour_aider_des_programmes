@@ -1,0 +1,20 @@
+
+select all
+spacefill on
+
+set fontsize 12
+select atomno=499
+label Chaine L (Fab)
+color label White
+
+set fontsize 10
+select atomno=3677
+label Chaine Y (antigene)
+color label White
+
+set fontsize 10
+select atomno=2216
+label Chaine H (Fab)
+color label White
+
+select all

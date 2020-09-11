@@ -1,0 +1,20 @@
+select all
+reset
+refresh
+set fontsize 8
+select atomno=591
+label Helice
+color label white
+set fontsize 8
+select atomno=1249
+label Helice
+color label white
+set fontsize 8
+select atomno=913
+label Feuillet
+color label white
+set fontsize 8
+select atomno=3112
+label Corbeille
+color label white
+select all

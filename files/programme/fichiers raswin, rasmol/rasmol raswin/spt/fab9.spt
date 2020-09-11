@@ -1,0 +1,28 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*y and(Asp18,Asn19))
+spacefill on
+color yellow
+
+set fontsize 10
+select atomno=3442
+label asp18
+color label White
+
+set fontsize 10
+select atomno=3450
+label asn19
+color label White
+
+select all
+refresh

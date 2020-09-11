@@ -1,0 +1,28 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*y and(Thr118, Asp119))
+spacefill on
+color yellow
+
+set fontsize 10
+select atomno=4214
+label thr118
+color label White
+
+set fontsize 10
+select atomno=4221
+label asp119
+color label White
+
+select all
+refresh

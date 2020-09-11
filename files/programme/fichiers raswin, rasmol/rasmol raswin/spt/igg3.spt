@@ -1,0 +1,9 @@
+select all
+reset
+wireframe off
+spacefill off
+ribbons off
+zoom off
+label off
+backbone 50
+color white

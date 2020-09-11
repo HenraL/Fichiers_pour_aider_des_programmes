@@ -1,0 +1,35 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+refresh
+backbone on
+color white
+delay 2
+restrict *l or *m
+delay 2
+select *l
+color green
+select *m
+color yellow
+delay 2
+restrict *l
+color white
+delay 2
+select *l and 501-612
+color green
+select *l and 613-716
+color greenblue
+delay 2
+select *l
+backbone off
+spacefill on
+select *l and 501-612
+color green
+select *l and 613-716
+color greenblue
+delay 2
+select all

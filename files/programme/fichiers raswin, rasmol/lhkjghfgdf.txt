@@ -1,0 +1,47 @@
+cmh1.spt
+cmh2.spt
+
+Le commentaire ci-dessous contient des commandes pour script SFX
+
+Setup=feuillet.pdb
+Setup=helice.pdb
+Setup=hlainf.pdb
+Setup=sequence.doc
+Update=U
+Title=cmhspt.exe licence
+Text
+{
+This file can only de run by a rasmol/raswin or other applications alowing you to view this molecule
+This file containes :
+feuillet.pdb
+helice.pdb
+hlainf.pdb
+sequence.doc
+}
+License=cmhspt.exe licence
+{
+This file can only de run by a rasmol/raswin or other applications alowing you to view this molecule
+}
+
+
+
+Le commentaire ci-dessous contient des commandes pour script SFX
+
+Setup=igg-lys.pdb
+Setup=iggtotal.pdb
+Update=U
+Title=iggspt.exe licence
+Text
+{
+This file can only de run by a rasmol/raswin or other applications alowing you to view this molecule
+This file containes :
+igg-lys.pdb
+iggtotal.pdb
+}
+License=iggspt.exe licence
+{
+This file can only de run by a rasmol/raswin or other applications alowing you to view this molecule
+This file containes :
+igg-lys.pdb
+iggtotal.pdb
+}

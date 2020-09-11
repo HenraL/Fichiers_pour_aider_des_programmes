@@ -1,0 +1,24 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+backbone off
+ssbonds off
+hbonds off
+refresh
+ribbons on
+color white
+delay 2
+restrict *h and 243-452, *i and 243-452
+delay 2
+select *h and 243-452
+color green
+select *i and 243-452
+color orange
+delay 2
+select *h and 243-452,*i and 243-452
+ribbons off
+spacefill on
+delay 2
+select all

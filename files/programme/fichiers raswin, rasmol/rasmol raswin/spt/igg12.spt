@@ -1,0 +1,60 @@
+select all
+spacefill off
+wireframe off
+ribbons off
+zoom off
+label off
+ssbonds off
+hbonds off
+refresh
+backbone on
+color white
+delay 2
+ssbonds on
+ssbonds 0.5
+zoom 150
+
+color ssbonds yellow
+delay 2
+ssbonds off
+backbone on
+color white
+refresh
+delay 2
+ssbonds on
+ssbonds 0.5
+color ssbonds yellow
+delay 2
+ssbonds off
+backbone on
+color white
+refresh
+delay 2
+ssbonds on
+ssbonds 0.5
+color ssbonds yellow
+delay 2
+ssbonds off
+backbone on
+color white
+refresh
+delay 2
+ssbonds on
+ssbonds 0.5
+color ssbonds yellow
+delay 2
+ssbonds off
+backbone on
+color white
+refresh
+delay 2
+ssbonds on
+ssbonds 0.5
+color ssbonds yellow
+delay 2
+ssbonds off
+backbone on
+color white
+refresh
+delay 2
+select all

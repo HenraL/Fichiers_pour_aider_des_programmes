@@ -1,0 +1,16 @@
+select all
+spacefill
+select *a
+color blue
+select *b
+color green
+select *c
+color red
+color chain
+delay 1
+move 0 -360 0 0 0 0 0 0 3 60
+delay 1
+#move 0 0 0 300 0 -5 0 0 5
+delay 1
+reset
+refresh

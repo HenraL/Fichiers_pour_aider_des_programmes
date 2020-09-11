@@ -1,0 +1,1 @@
+This file can only de run by a rasmol/raswin or other applications alowing you to view this molecule

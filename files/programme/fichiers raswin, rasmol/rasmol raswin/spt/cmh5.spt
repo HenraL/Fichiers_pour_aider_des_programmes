@@ -1,0 +1,12 @@
+select all
+reset
+refresh
+set fontsize 8
+select atomno=462
+label Exterieur
+color label white
+set fontsize 8
+select atomno=1802
+label Insertion membranaire
+color label white
+select all

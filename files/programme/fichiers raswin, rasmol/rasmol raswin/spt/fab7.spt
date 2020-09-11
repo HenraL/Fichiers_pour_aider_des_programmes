@@ -1,0 +1,33 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*l and(Phe91,Trp92,Ser93))
+spacefill on
+color red
+
+set fontsize 10
+select atomno=693
+label Phe91
+color label White
+
+set fontsize 10
+select atomno=704
+label trp92
+color label White
+
+set fontsize 10
+select atomno=718
+label Ser93
+color label White
+
+select all
+refresh

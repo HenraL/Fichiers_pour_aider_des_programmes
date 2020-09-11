@@ -1,0 +1,38 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*h and(Arg99, Asp100, Tyr101, Arg102))
+spacefill on
+color blue
+
+set fontsize 10
+select atomno=2422
+label arg99
+color label White
+
+set fontsize 10
+select atomno=2433
+label asp100
+color label White
+
+set fontsize 10
+select atomno=2453
+label arg102
+color label White
+
+set fontsize 10
+select atomno=2441
+label tyr101
+color label White
+
+select all
+refresh

@@ -1,0 +1,181 @@
+programme\fichiers raswin, rasmol\rasmol raswin\molécules faites
+
+les molécules à faire:
+1 adenineh\adenineh.exe
+
+les infos
+adenineh.pdb
+
+2 adn\adn.exe
+
+les infos
+adn.pdb
+
+3 adnarn\adnarn.exe
+
+les infos
+ADN.PDB
+ARN.PDB
+ARNM.PDB
+ARNT.PDB
+chaineA.pdb
+chaineb.pdb
+
+4 adnarn\libnuc\libnuc.exe
+
+les infos
+ADENINEH.PDB
+CYTOSINH.PDB
+DESRIBH.PDB
+GUANINEH.PDB
+H3PO4.PDB
+NUC2ATH.PDB
+NUC2CGH.PDB
+NUCADEH.PDB
+NUCCYTH.PDB
+NUCGUAH.PDB
+NUCTHYH.PDB
+NUCURAH.PDB
+RIBOSEH.PDB
+THYMINEH.PDB
+URACILEH.PDB
+URIDINEH.PDB
+
+5 cmhspt\cmhspt.exe
+
+les infos
+feuillet.pdb
+helice.pdb
+hlainf.pdb
+sequence.doc
+
+6 cpaseul\cpaseul.exe
+
+les infos
+cpaseul.pdb
+
+7 cpaspt\cpaspt (2) .exe
+
+les infos
+cpaseul.pdb
+cpasub.pdb
+feuillet.pdb
+helice.pdb
+
+8 cpasub\cpasub.exe
+
+les infos
+cpasub.pdb
+
+9 cytoc\cytoc.exe
+
+les infos
+C2PRO.PDB
+C550PRO.PDB
+C551PRO.PDB
+C553PRO.PDB
+CBONITE.PDB
+CCHEVAL.PDB
+CRIZ.PDB
+CTHON.PDB
+CYTOTXT.DOC
+
+10 desribh\desribh.exe
+
+les infos
+desribh.pdb
+
+11 enzyme\enzyme.exe
+
+les infos
+CPA.PDB
+CPA-SUB.PDB
+
+12 evol\evol.exe
+
+les infos
+ALPHAHOM.PDB
+BETAHOM.PDB
+GAMMAHOM.PDB
+MYOCACH.PDB
+MYOPHOQ.PDB
+MYOPORC.PDB
+
+13 h3po4\h3po4.exe
+
+les infos
+MYOPORC.PDB
+
+14 hla\hla.exe
+
+les infos
+HLAAH.PDB
+HLAAI.PDB
+HLAB.PDB
+
+15 igg\igg.exe
+
+les infos
+IGGH.PDB
+IGG-LYS.PDB
+IGGTOTAL.PDB
+LYS.PDB
+
+16 iggspt\iggspt.exe
+
+les infos
+igg-lys.pdb
+iggtotal.pdb
+
+17 mut\mut.exe
+
+les infos
+ALPHA.PDB
+ALPHADRE.PDB
+ALPHANOR.PDB
+BETADREP.PDB
+BETANORM.PDB
+HBS.PDB
+HBSHBS.PDB
+
+18 nucthyh\nucthyh.exe
+
+les infos
+nuc2ath.pdb
+nuc2cgh.pdb
+nucadeh.pdb
+nuccyh.pdb
+nuccyth.pdb
+nucguah.pdb
+nucthyh.pdb
+
+19 strfct\strfct.exe
+les infos
+ALPHAOXY.PDB
+ALPHARED.PDB
+BETAOXY.PDB
+BETARED.PDB
+HEMOXY.PDB
+HEMRED.PDB
+INSULINE.PDB
+MYOOXY.PDB
+MYORED.PDB
+les molécules faites:
+
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\008 le spleen"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\008 le spleen\"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\001 Au lecteurs"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\001 Au lecteurs\001 au lecteurs.docx"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\002 élévation"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\002 élévation\001 LA de élévation.docx"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\003 L'albatros"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\003 L'albatros\annalyse de l'albatros.docm"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\004 l'homme et la mer"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\004 l'homme et la mer\l'homme et la mer LA.docx"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\005 Correspondance"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\005 Correspondance\001 Correspondances.docx"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\006 l'horloge"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\006 l'horloge\L'horloge LA (finale).docm"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\006 l'horloge\L'horloge LA.docm"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\007 commentaire de texte"
+"C:\Users\ELEVE\Documents\Documents\Matières\Français\2GT3\012 les fleurs du mal\007 commentaire de texte\commentaire de texe du 26 03 2018.docm"

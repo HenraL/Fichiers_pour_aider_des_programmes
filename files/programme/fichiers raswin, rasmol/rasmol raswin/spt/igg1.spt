@@ -1,0 +1,19 @@
+
+select all
+spacefill on
+'set fontsize 12
+'select atomno=6660
+'label Zone d'insertion à la membrane du lymphocyte
+'color label White
+set fontsize 12
+select atomno=2669
+label Fragment Fc
+color label White
+set fontsize 12
+select atomno=7418
+label Fragment Fab
+color label White
+set fontsize 12
+select atomno=9026
+label Fragment Fab
+color label White

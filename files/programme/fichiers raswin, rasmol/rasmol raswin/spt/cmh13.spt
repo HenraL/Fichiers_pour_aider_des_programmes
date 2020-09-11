@@ -1,0 +1,58 @@
+select all
+wireframe off
+spacefill off
+backbone on
+color white
+reset
+refresh
+select *a and (1-90)
+ribbons on
+zoom 100
+color blue
+set fontsize 8
+select atomno=462
+label A(alpha1)
+color label blue
+delay 2
+select *a and (91-181)
+ribbons on
+zoom 100
+color greenblue
+refresh
+set fontsize 8
+select atomno=1222
+label A(alpha2)
+color label greenblue
+refresh
+delay 2
+select *a and (182-275)
+ribbons on
+zoom 100
+color violet
+refresh
+set fontsize 8
+select atomno=1802
+label A(alpha3)
+color label violet
+refresh
+delay 1
+#select *b
+# ribbons on
+zoom 100
+#color green
+#refresh
+#set fontsize 8
+#select atomno=2629
+#label B (microglobuline)
+#color label green
+#delay 2
+#select *c
+#backbone on
+#color red
+#refresh
+#set fontsize 8
+#select atomno=3112
+#label C (peptide viral)
+#color label red
+#refresh
+select all

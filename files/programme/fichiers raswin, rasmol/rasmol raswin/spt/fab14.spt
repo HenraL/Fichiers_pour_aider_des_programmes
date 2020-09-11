@@ -1,0 +1,38 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*y and(Asn19, Arg21, Gly22, Tyr23))
+spacefill on
+color yellow
+
+set fontsize 10
+select atomno=3450
+label asn19
+color label White
+
+set fontsize 10
+select atomno=3470
+label arg21
+color label White
+
+set fontsize 10
+select atomno=3481
+label gly22
+color label White
+
+set fontsize 10
+select atomno=3485
+label tyr23
+color label White
+
+select all
+refresh

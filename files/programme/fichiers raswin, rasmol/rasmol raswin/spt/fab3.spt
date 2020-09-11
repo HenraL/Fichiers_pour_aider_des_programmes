@@ -1,0 +1,33 @@
+
+select all
+label off
+wireframe off
+ribbons off
+spacefill off
+ssbonds off
+hbonds off
+backbone on
+select *l
+color red
+select *h
+color blue
+select *y
+color yellow
+delay 2
+zoom 100
+translate y 10
+translate y 20
+delay 2
+zoom 150
+delay 2
+zoom 200
+delay 2
+move 0 -360 0 0 0 0 0 0 3 60
+zoom 150
+delay 2
+zoom 100
+delay 2
+zoom off
+refresh
+reset
+select all

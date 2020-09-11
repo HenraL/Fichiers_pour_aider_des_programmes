@@ -1,0 +1,9 @@
+User License
+This program has been written by Henry Letellier for my biology teacher.
+This program does not contain viruses.
+This program is to help people who have difficulties installing applications on a windows operating system.
+This program is written in French and has components that are preconfigured to be installed if the customer wants them.
+In any case the customer can blame me if there is a malfunction in one of the application that are offered or in one of the applications the customer installs.
+There are no trackers or other spies.
+anybody can redistributed, copied, modified as long as it isn't to harm other people.
+it is possible that the given shortcut may not work, in this case go to the folder called programme and locate "differentes_techniques_pour_installer_un_programme_informatique.bat" do a rigth click and click copy, exit the folder and again do a right click, select paste as a shortcut (coller le raccourci) if you whant you can customise it with an image you have, mine or the by defaul ones in windows, for that you do a right click on the shortcut and select about (propri�t�), click on change icone and chose your icone, once you have done that click ok than click aply and test the shortcut.

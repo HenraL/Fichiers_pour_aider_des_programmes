@@ -1,0 +1,24 @@
+select all
+reset
+refresh
+spacefill off
+wireframe off
+backbone off
+cartoons on
+select *a
+color blue
+select *b
+color green
+select *c
+color red
+delay 2
+restrict *a or *c
+resfresh
+delay 2
+restrict 1-181
+delay 2
+color structure
+delay 1
+reset
+refresh
+select all

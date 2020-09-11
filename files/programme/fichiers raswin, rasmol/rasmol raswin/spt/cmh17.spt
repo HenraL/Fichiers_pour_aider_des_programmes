@@ -1,0 +1,25 @@
+select all
+reset
+refresh
+dots off
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+rotate y 10
+delay 0.5
+select *c
+dots on
+#select all

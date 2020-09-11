@@ -1,0 +1,132 @@
+/* _________________________________________html__________________________________________________ */
+html
+{
+    background-color: darkgrey;
+}
+/*_____________________________________________________.big____________________________________________________*/
+
+.big
+{
+    font-size: 5em;
+    color: black;
+    text-align: center;
+    border-style: outset;
+    border-color: blue;
+}
+
+/*________________________________________________title chapters__________________________________________________*/
+
+.title
+{
+    font-size: 3em;
+}
+
+/* -------------------------------------------------sommaire------------------------------------------------ */
+
+Sommaire:hover
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+
+/* _________________________________________________li et ul__________________________________________________ */
+
+li
+{
+    list-style-type: none; 
+    text-align: left;
+    background-color: none;
+    border-radius: 50px;
+}
+
+nav
+{
+    border: 3px black groove;
+    border-radius: 50px;
+    background-color: bisque;
+}
+
+.shadow_summary:hover
+{
+    background-color: none;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px black;
+    text-decoration: none;
+    cursor: default;
+    font-style: italic;
+}
+
+/*_____________________________________________________classs .summary____________________________________________________________*/
+
+.summary
+{
+    color: black;
+    text-decoration: none;
+    cursor: default;
+}
+
+.summary:hover
+{
+    color: red;
+}
+
+/*_____________________________________________________class credit ____________________________________________________________*/
+.credit
+{
+    background-color: black;
+    height:6cm ;
+    width: 10cm ;
+    border-style: outset;
+
+}
+
+.credit:hover
+{
+    background-color: black;
+    height:6cm ;
+    width: 10cm ;
+    border-style: inset;
+    cursor: help;
+
+}
+
+/*_____________________________________________________class sommary____________________________________________________________*/
+.sommary:hover
+{
+    font-size: 5em;
+    color: red;
+}
+
+/* -------------------------------------------------- class buttton ---------------------------------------------------------- */
+
+.buttton
+{
+    background-color: yellowgreen;
+    height: 7em;
+    width: 15em;
+    border-style: outset;
+    font-size: 10px;
+    font-style: bold;
+}
+
+/* --------------------------------------------------- class content --------------------------------------------------------- */
+
+.content
+{
+    color: black;
+}
+
+.content:active
+{
+    color: blue;
+    background-color: white;
+    font-size: 3em;
+}
+
+/* ---------------------------------------------------- class arrup ---------------------------------------------------------- */
+.arrup
+{
+    font-size: 20px;
+    font-style: bold;
+}

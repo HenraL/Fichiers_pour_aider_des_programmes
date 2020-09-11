@@ -1,0 +1,26 @@
+select all
+reset
+refresh
+set fontsize 8
+select atomno=462
+label A(alpha1)
+color label white
+set fontsize 8
+select atomno=1222
+label A(alpha2)
+color label white
+set fontsize 8
+select atomno=1802
+label A(alpha3)
+color label white
+set fontsize 8
+#refresh
+select atomno=2629
+label B (microglobuline)
+color label green
+#refresh
+set fontsize 8
+select atomno=3112
+label C (peptide viral)
+color label white
+select all

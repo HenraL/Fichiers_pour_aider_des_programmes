@@ -1,0 +1,24 @@
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+backbone off
+ssbonds off
+hbonds off
+refresh
+reset
+ribbons on
+color white
+delay 2
+restrict *l,*h and 1-243
+select *l
+color red
+select *h and 1-243
+color blue
+delay 2
+select *l,*h and 1-243
+ribbons off
+spacefill
+delay 2
+select all

@@ -1,0 +1,28 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*y and(Gln121, Ile124))
+spacefill on
+color yellow
+
+set fontsize 10
+select atomno=4236
+label gln121
+color label White
+
+set fontsize 10
+select atomno=4246
+label ile124
+color label White
+
+refresh
+select all

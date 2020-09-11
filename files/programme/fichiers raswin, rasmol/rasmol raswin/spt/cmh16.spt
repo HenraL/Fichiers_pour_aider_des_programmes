@@ -1,0 +1,9 @@
+select all
+reset
+refresh
+dots off
+delay 1
+select *c
+dots
+refresh
+#select all

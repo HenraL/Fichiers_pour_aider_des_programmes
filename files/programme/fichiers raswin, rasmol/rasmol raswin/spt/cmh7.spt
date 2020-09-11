@@ -1,0 +1,18 @@
+select all
+spacefill off
+wireframe off
+backbone 0.5
+select *a
+color blue
+select *b
+color green
+select *c
+color red
+delay 1
+move 0 -360 0 0 0 0 0 0 3 60
+delay 1
+#rotation puis zoom
+#move 0 0 0 300 0 -5 0 0 5
+delay 1
+reset
+refresh

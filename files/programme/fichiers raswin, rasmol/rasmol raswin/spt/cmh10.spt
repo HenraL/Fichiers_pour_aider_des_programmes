@@ -1,0 +1,16 @@
+select all
+spacefill off
+wireframe off
+backbone off
+label off
+zoom off
+cartoons on
+color structure
+delay 1
+move 0 -360 0 0 0 0 0 0 3 60
+delay 1
+#rotation puis zoom
+#move 0 0 0 300 0 -5 0 0 5
+delay 1
+reset
+refresh

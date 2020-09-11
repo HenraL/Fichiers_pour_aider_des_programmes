@@ -1,0 +1,28 @@
+
+select all
+spacefill off
+wireframe off
+zoom off
+label off
+ssbonds off
+hbonds off
+backbone on
+
+zoom 150
+color white
+select (*y and(Leu129, Leu25))
+spacefill on
+color yellow
+
+set fontsize 10
+select atomno=4304
+label leu129
+color label White
+
+set fontsize 10
+select atomno=3503
+label leu25
+color label White
+
+refresh
+select all
